@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>C:\Users\413\Desktop\MicroChip\3\3\3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Users\413\Desktop\MicroChip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Users\413\Desktop\MicroChip\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\413\Desktop\MicroChip\3\3\3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Users\413\Desktop\MicroChip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m32Adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\413\Desktop\MicroChip\3\3\3\Debug\3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>3.map</FILE>
+  <FILE>3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\413\Desktop\MicroChip\3\3\3\main.asm</FILE><LINE>14</LINE></RESET>
+  <LOOP><FILE>C:\Users\413\Desktop\MicroChip\3\3\3\main.asm</FILE><LINE>23</LINE></LOOP>
+  <dly><FILE>C:\Users\413\Desktop\MicroChip\3\3\3\main.asm</FILE><LINE>36</LINE></dly>
+ </LABELS>
+</ASSEMBLER_INFO>

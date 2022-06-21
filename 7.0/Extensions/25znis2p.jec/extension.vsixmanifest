@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vsix xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2010">
+  <Identifier Id="F8853255-9C7B-4DC2-8E0F-64D9324AEB0E">
+    <Name>Configurator Importer</Name>
+    <Author>Microchip</Author>
+    <Version>1.0.248.0</Version>
+    <Description xml:space="preserve">Configurator Extension for Microchip Studio. Import from START and MCC online</Description>
+    <Locale>1033</Locale>
+    <MoreInfoUrl>http://start.atmel.com/static/help/index.html</MoreInfoUrl>
+    <Icon>acmeicon.png</Icon>
+    <PreviewImage>acme.png</PreviewImage>
+    <License>license.txt</License>
+    <GettingStartedGuide>http://alexandria.atmel.com/keyword/ATMELSTART.USINGATMELSTUDIO/redirect</GettingStartedGuide>
+    <InstalledByMsi>false</InstalledByMsi>
+    <AllUsers>true</AllUsers>
+    <SupportedProducts>
+      <IsolatedShell Version="7.0">AtmelStudio</IsolatedShell>
+    </SupportedProducts>
+    <SupportedFrameworkRuntimeEdition MinVersion="4.0" MaxVersion="4.0" />
+  </Identifier>
+  <References />
+  <Content>
+    <VsPackage>Acme.pkgdef</VsPackage>
+    <VsPackage>AtZipEditor.pkgdef</VsPackage>
+  </Content>
+</Vsix>

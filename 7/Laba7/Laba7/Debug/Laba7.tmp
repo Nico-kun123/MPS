@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32A"</DEVICE>
+ <WORKING_DIR>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Users\413\Desktop\MicroChip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Users\413\Desktop\MicroChip\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Users\413\Desktop\MicroChip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m32Adef.inc</FILE>
+  <FILE>C:/Users\413\Desktop\MicroChip\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m32adef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\Debug\Laba7.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Laba7.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Laba7.map</FILE>
+  <FILE>Laba7.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <mas_ADC><FILE>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\main.asm</FILE><LINE>18</LINE></mas_ADC>
+  <INIT><FILE>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\main.asm</FILE><LINE>33</LINE></INIT>
+  <INT_0><FILE>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\main.asm</FILE><LINE>86</LINE></INT_0>
+  <INT_1><FILE>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\main.asm</FILE><LINE>98</LINE></INT_1>
+  <T_OWF0><FILE>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\main.asm</FILE><LINE>102</LINE></T_OWF0>
+  <Int_ADC><FILE>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\main.asm</FILE><LINE>128</LINE></Int_ADC>
+  <main><FILE>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\main.asm</FILE><LINE>83</LINE></main>
+  <END_T_OWF><FILE>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\main.asm</FILE><LINE>125</LINE></END_T_OWF>
+  <END_Int_ADC><FILE>C:\Users\413\Desktop\MicroChip\7\Laba7\Laba7\main.asm</FILE><LINE>154</LINE></END_Int_ADC>
+ </LABELS>
+</ASSEMBLER_INFO>
